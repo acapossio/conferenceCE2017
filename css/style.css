@@ -1,0 +1,39 @@
+.landing{
+    background-image: url(../img/network_back.png),linear-gradient(-45deg, #B91254 0%, #314758 100%);
+    background-size: cover;
+    width: 100vw;
+    height: 90vh;
+}
+
+.landing .container{
+    height: 90vh;
+}
+.landing .row, .footer .row{
+    width: 100%;
+}
+
+.landing .logo-landing{
+    width: 70vw;
+}
+.dirigido{
+    background-image: linear-gradient(-45deg, #B91254 0%, #314758 100%);
+}
+.inversion{
+    background: #3DBDB6;
+}
+.reserva{
+    background-image: linear-gradient(-131deg, #3DBDB6 0%, #0089CE 100%);
+}
+.footer{
+    background: #1F2532;
+}
+.dirigido, .reserva, .inversion, .title-divider{
+    color:white !important;
+}
+.color-principal{
+    color: #CC1E1F;
+}
+.title-divider{
+    background-color: #C20F54; 
+}
+
